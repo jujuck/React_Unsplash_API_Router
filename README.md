@@ -5,7 +5,7 @@ Documentation utilisée pour les images : https://unsplash.com/documentation#lis
 Documentation utilisée pour les sujets : https://unsplash.com/documentation#list-topics
 
 ## Mise en place
-- 1/ Point sur l'architecture porjet (.env et .env.sample)
+- 1/ Point sur l'architecture projet (.env et .env.sample)
 - 2/ Une page d'accueil avec la liste des topics
   - Création d'une page
   - Récupération d'une clé APi
