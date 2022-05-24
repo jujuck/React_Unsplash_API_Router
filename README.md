@@ -14,7 +14,7 @@ Documentation utilisée pour les sujets : https://unsplash.com/documentation#lis
 - 3/ Mise en place du routing pour la page d'accueil et la page de photo
 - 4/ Création de la page de photo
 - 5/ Ajout des bouton de nav au cartes de topics
-- 6/ Récupération du params d'Ulr pour Fetch  et mise en forme des résultats
+- 6/ Récupération du params d'Url pour Fetch  et mise en forme des résultats
 
 - 7/ Si le temps : ajout d'une page pour les crédits photos (Détails)
     Documentation : https://unsplash.com/documentation#get-a-photos-statistics
